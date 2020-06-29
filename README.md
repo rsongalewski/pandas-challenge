@@ -1,20 +1,21 @@
 # pandas-challenge
-PyCitySchools
 
-District Summary
+# PyCitySchools
 
-School Summary
+# District Summary
 
-Top Performing Schools (By % Overall Passing)
+# School Summary
 
-Bottom Performing Schools (By % Overall Passing)
+# Top Performing Schools (By % Overall Passing)
 
-Math Scores by Grade
+# Bottom Performing Schools (By % Overall Passing)
 
-Reading Scores by Grade
+# Math Scores by Grade
 
-Scores by School Spending
+# Reading Scores by Grade
 
-Scores by School Size
+# Scores by School Spending
 
-Scores by School Type
+# Scores by School Size
+
+# Scores by School Type
