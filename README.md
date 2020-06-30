@@ -1,7 +1,7 @@
-# pandas-challenge 
-# PyCitySchools
+# Pandas-Challenge\PyCitySchools
 
 # INFORMATION EVALUATED
+
 # District Summary
 # School Summary
 # Top Performing Schools (By % Overall Passing)
